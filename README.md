@@ -1,4 +1,4 @@
-# MY_LOCAL_JAVA_SELENIUM
+# JAVA_SELENIUM
 
 A demo project for UI test automation in Java using Selenium WebDriver, JUnit 5, and Maven. Tests are executed against a locally running application (`http://localhost:8080/`).
 
